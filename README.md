@@ -1,2 +1,2 @@
-# compaanies
+# companies
 research about companies
